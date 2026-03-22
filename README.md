@@ -128,9 +128,9 @@ Members:
 
 ---
 
-## 📅 Submission
+## 📅 Course
 
-Course: Embedded Systems / Electronic Circuit and Devices
+Course: Embedded Systems
 University: University of Jaffna
 
 ---
