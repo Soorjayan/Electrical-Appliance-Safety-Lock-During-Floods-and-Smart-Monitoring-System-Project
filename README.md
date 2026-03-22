@@ -140,11 +140,3 @@ University: University of Jaffna
 This project demonstrates how embedded systems and IoT can be combined to build a smart monitoring and control system with real-time visualization.
 
 ---
-
-## 🔗 Repository
-
-Add your GitHub link here:
-
-```
-https://github.com/your-username/smart-monitoring-system
-```
