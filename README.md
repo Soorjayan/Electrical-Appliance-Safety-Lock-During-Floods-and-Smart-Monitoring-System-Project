@@ -115,14 +115,16 @@ Displays:
 
 ## 👥 Group Details
 
-Group Number: CG15 - Group XX
+Group Number: Group 08
 
 Members:
 
-* Soorjayan Varatharajan (2022/E/XXX)
-* Member 2
-* Member 3
-* Member 4
+
+2022/E/035 	Naveenkumar E.
+2022/E/136  Ketharan S.
+2022/E/152 	Vithushan S.
+2022/E/164 	Sahithyan U.
+2022/E/165 	Soorjayan V.
 
 ---
 
